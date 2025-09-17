@@ -28,10 +28,12 @@ body {
     justify-content: space-between;
 }
 
-.main {}
+.main {
+
+}
 
 .footer {
-    height: 156px ;
+    height: 156px;
     border: 1px solid red;
 }
 
